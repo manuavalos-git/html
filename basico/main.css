@@ -1,0 +1,30 @@
+body{
+    background-color: gray;
+    color: azure;
+    }
+    #parrafo{
+        background-color: aqua;
+        color: rgb(167, 165, 170);
+        margin: 8px;
+        border-style:solid;
+        border-color: black;
+    }
+    #segundoP{
+        background-color: aqua;
+        color: rgb(167, 165, 170);
+        padding: 8px;
+    }
+    .cosas{
+        background-color: blue;
+        color: brown;
+        margin: 8px;
+        border-style: groove;
+        border-color: black;
+        border-width: 1px;
+        border-right: 1mm solid lightgreen;
+    }
+    .cosas2{
+        background-color: blue;
+        color: brown;
+        padding: 8px;
+    }
